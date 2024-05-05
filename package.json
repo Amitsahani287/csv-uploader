@@ -2,11 +2,11 @@
   "name": "react-csv-uploader",
   "version": "0.1.0",
   "author": "Amit kumar",
-  "homepage": "https://halumz.github.io/react-csv-uploader",
+  "homepage": "https://github.com/Amitsahani287/csv-uploader",
   "private": true,
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/halumz/react-csv-uploader.git"
+    "url": "git+https://github.com/Amitsahani287/csv-uploader.git"
   },
   "keywords": ["react", "react-csv-uploader", "react-tutorial"],
   "dependencies": {
